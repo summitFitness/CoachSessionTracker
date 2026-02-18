@@ -82,5 +82,4 @@ For privacy questions or requests:
 
 - Company: `Summit Day Fitness`
 - Email: `summitdayfitness@icloud.com`
-- Mailing address: ``
 
